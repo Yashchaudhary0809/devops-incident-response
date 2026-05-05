@@ -16,9 +16,9 @@ logger = logging.getLogger(__name__)
 
 # ── Email Configuration ──────────────────────────────────────
 EMAIL_CONFIG = {
-    "sender_email": "shellyatri07mail@gmail.com",     
-    "sender_password": "nije jqnl ddsg wiji",    
-    "receiver_email": "chaudharyyash0809@gmail.com",    
+    "sender_email": "shellyatri07@gmail.com",     
+    "sender_password": "uocj yzia nlep kbyw",    
+    "receiver_email": "shellyatri07@gmail.com",    
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587
 }

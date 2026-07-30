@@ -1,4 +1,4 @@
-# Devops-Incident-Response
+# KubeHeal
 Event Driven Incident Response System - Kubernetes &amp; Prometheus
 
 
